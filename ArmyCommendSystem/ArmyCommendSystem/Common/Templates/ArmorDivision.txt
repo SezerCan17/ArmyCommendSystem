@@ -1,0 +1,2 @@
+Tank Battalion		4			960
+Armored Infantry	2			1280

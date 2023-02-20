@@ -1,0 +1,2 @@
+Motorized Airborne Infantry	4			3200
+Motorized Marine Infantrry	2			1600

@@ -1,0 +1,7 @@
+ArmorDivision		1			Bursa		1		1
+ArmorDivision		2			Bursa		1		1
+ArmorDivision		3			Bursa		1		1
+ArmorDivision		4			Bursa		1		1
+MotorizedDivision	5			Antalya		2		1
+MotorizedDivision	6			Antalya		2		1
+MotorizedDivision	7			Antalya		2		1

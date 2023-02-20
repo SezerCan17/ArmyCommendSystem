@@ -1,0 +1,2 @@
+Light Infantry		8			6000
+Artillery		4			960

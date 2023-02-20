@@ -1,0 +1,8 @@
+InfantryDivision 	8			Ankara		0		0
+InfantryDivision 	9			Ankara		0		0
+InfantryDivision 	10			Ankara		0		0
+ArmorDivision		11			Ankara		0		0
+ArmorDivision		12			Ankara		0		0
+MotorizedDivision	13			Ankara		0		0
+MotorizedDivision	14			Ankara		0		0
+MotorizedDivision	15			Ankara		0		0

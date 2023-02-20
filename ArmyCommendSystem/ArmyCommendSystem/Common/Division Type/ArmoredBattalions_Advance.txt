@@ -1,0 +1,6 @@
+BattalionsName			Manpower		SupplyUse	Speed
+Mechanized Infantry		780			0.06		10.5
+Armored Infantry		640			0.06		10.0
+Tank Battalion			240			0.08		9.2
+Self-Propelled Artillery	150			0.08		10.5
+Self-Propelled Air Denfence	120			0.1		9.5

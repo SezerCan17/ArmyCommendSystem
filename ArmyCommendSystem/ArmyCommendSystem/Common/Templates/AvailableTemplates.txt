@@ -1,0 +1,3 @@
+ArmorDivision 		2240
+InfantryDivision 	6960
+MotorizedDivision	4800

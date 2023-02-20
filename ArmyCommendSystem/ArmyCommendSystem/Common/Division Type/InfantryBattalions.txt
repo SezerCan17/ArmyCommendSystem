@@ -1,0 +1,5 @@
+Light Infantry			750
+Airborne Light Infantry		750
+Marine Light Infantry		750
+Special Operation Forces	750
+Artillery			240

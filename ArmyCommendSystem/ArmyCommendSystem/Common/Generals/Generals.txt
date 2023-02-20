@@ -1,0 +1,8 @@
+Erwin_Rommel		1		1
+Erich_von_Manstein	2		2
+Heinz_Guderian		0		0
+Fedor_von_Bock		0		0
+Poul_Hausser		0		0
+Erwin_von_Witzleben	0		0
+Kurt_Student		0		0
+Albert_Kesseiring	0		0

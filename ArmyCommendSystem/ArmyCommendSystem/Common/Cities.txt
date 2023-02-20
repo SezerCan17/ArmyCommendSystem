@@ -1,0 +1,56 @@
+Istanbul={
+	Terrain="Urban"
+	Supply=10.32
+}
+Bursa={
+	Terrain="Mountain"
+	Supply=5.0
+}
+Izmir={
+	Terrain="Urban"
+	Supply=9.97
+}
+Eskisehir={
+	Terrain="Mountain"
+	Supply=9.20
+}
+Ankara={
+	Terrain="Urban"
+	Supply=12.14
+}
+Konya={
+	Terrain="Urban"
+	Supply=10.58
+}
+Antalya={
+	Terrain="Plains"
+	Supply=7.70
+}
+Mersin={
+	Terrain="Mountain"
+	Supply=5.31
+}
+Adana={
+	Terrain="Mountain"
+	Supply=7.89
+}
+Samsun={
+	Terrain="Plains"
+	Supply=10.08
+}
+Trabzon={
+	Terrain="Mountain"
+	Supply=6.88
+}
+Gaziantep={
+	Terrain="Mountain"
+	Supply=7.12
+}
+Diyabakir={
+	Terrain="Desert"
+	Supply=6.50
+}
+Sanliurfa={
+	Terrain="Desert"
+	Supply=7.20
+}

@@ -1,0 +1,20 @@
+Urban={
+	Movement=0.8
+	Supply_Needs=1.0
+}
+Mountain={
+	Movement=0.7
+	Supply_Needs=2.0
+}
+Hills={
+	Movement=0.9
+	Supply_Needs=1.2
+}
+Plains={
+	Movement=1.0
+	Supply_Needs=1.0
+}
+Desert={
+	Movement=1.0
+	Supply_Needs=1.5
+}

@@ -1,0 +1,5 @@
+Mechanized Infantry		780
+Armored Infantry		640
+Tank Battalion			240
+Self-Propelled Artillery	150
+Self-Propelled Air Denfence	120

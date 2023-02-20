@@ -1,0 +1,12 @@
+Generals 		Speed	SupplyUsage	Traits			AssignedArmy
+
+Erwin Rommel		1.04	0.925		Trickster		1
+Erich von Manstein	1.08	0.9		Engineer		2
+Heinz Guderian		1.10	0.925		Panzer Leader		3
+Fedor von Bock		1.08	0.95		Harsh Leader		4
+Poul Hausser		1.08	0.925		Politically Connected	0
+Erwin von Witzleben	1.04	0.9		Infantry Officer	0
+Kurt Student		1.08	0.925		Commando		0
+Albert Kesseiring	1.08	0.9		War Hero		0
+
+

@@ -1,0 +1,101 @@
+﻿  Base.cpp
+  Council.cpp
+  Country.cpp
+  General.cpp
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\General.cpp(244,16): warning C4101: 'temp': unreferenced local variable
+  Leader.cpp
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(276,51): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(287,57): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(306,59): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(306,121): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(306,182): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(357,51): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(368,57): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(397,59): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(397,121): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(397,182): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(404,56): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(407,53): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(501,59): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(501,121): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(545,47): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(572,59): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(572,121): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Leader.cpp(578,56): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  main.cpp
+  Marshal.cpp
+C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\ArmyCommendSystem\Marshal.cpp(193,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ArmyCommendSystem.vcxproj -> C:\Users\mertc\OneDrive\Masaüstü\project\ArmyCommendSystem\x64\Debug\ArmyCommendSystem.exe

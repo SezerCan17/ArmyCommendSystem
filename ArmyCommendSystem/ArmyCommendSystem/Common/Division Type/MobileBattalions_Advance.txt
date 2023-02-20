@@ -1,0 +1,4 @@
+BattalionsName			Manpower	SupplyUse	Speed
+Motorized Infantry		800		0.04		16.5
+Motorized Airborne Infantry	800		0.04		16.5
+Motorized Marine Infantrry	800		0.04		16.5

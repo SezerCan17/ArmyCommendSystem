@@ -1,0 +1,6 @@
+BattalionsName			Manpower	SupplyUse	Speed
+Light Infantry			750		0.02		8.0
+Airborne Light Infantry		750		0.02		8.0
+Marine Light Infantry		750		0.02		8.0
+Special Operation Forces	750		0.02		8.0
+Artillery			240		0.06		15.5

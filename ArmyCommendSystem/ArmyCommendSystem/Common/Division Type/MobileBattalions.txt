@@ -1,0 +1,3 @@
+Motorized Infantry		800
+Motorized Airborne Infantry	800
+Motorized Marine Infantrry	800

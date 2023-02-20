@@ -1,0 +1,4 @@
+Generals		Speed	SupplyConsumption	Traits				AssignedArmyGroup
+Gerd von Rundstedt	1.06	0.95			Urban Assault Specialist	1
+Gunther von Kluge	1.04	0.925			Armor Officer			2
+Walter Model		1.06	0.95			Politically Connected		0

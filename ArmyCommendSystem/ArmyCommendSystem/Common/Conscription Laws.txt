@@ -1,0 +1,7 @@
+Disarmed Nation			0.01
+Volunteer Only			0.015
+Limited Conscription		0.025
+Extensive Conscription 		0.5
+Service by Requirement		0.1
+All Adults Serve		0.2
+Scarping the Barrel		0.25
